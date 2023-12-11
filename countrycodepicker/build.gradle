@@ -1,8 +1,8 @@
 apply plugin: 'com.android.library'
 
 group = 'com.github.joielechong'
-version = "2.4.3"
-def verCode = 243
+version = "2.4.4"
+def verCode = 244
 
 android {
   compileSdkVersion 29
@@ -28,6 +28,6 @@ dependencies {
 //  testImplementation 'junit:junit:4.12'
 //  api 'io.michaelrocks:libphonenumber-android:8.10.7'
 //  api 'io.michaelrocks:libphonenumber-android:8.10.16'
-  api 'io.michaelrocks:libphonenumber-android:8.12.5'
+  api 'io.michaelrocks:libphonenumber-android:8.12.52'
   implementation 'androidx.annotation:annotation:1.1.0'
 }
