@@ -523,6 +523,8 @@ public class CountryUtils {
         return R.drawable.flag_saint_martin;
       case "gs": //south georgia
         return R.drawable.flag_south_georgia;
+      case "trnc": // turkish republic of northern cyprus
+        return R.drawable.flag_northern_cyprus;
       default:
         return R.drawable.flag_transparent;
     }
@@ -1159,6 +1161,10 @@ public class CountryUtils {
     countries.add(new Country(context.getString(R.string.country_norway_code),
         context.getString(R.string.country_norway_number),
         context.getString(R.string.country_norway_name)));
+
+    countries.add(new Country(context.getString(R.string.country_northern_cyprus_code),
+            context.getString(R.string.country_northern_cyprus_number),
+            context.getString(R.string.country_northern_cyprus_name)));
 
     countries.add(new Country(context.getString(R.string.country_oman_code),
         context.getString(R.string.country_oman_number),

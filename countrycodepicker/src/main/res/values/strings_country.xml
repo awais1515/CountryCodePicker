@@ -656,6 +656,10 @@
     <string name="country_norway_code" translatable="false">no</string>
     <string name="country_norway_number" translatable="false">47</string>
 
+    <string name="country_northern_cyprus_name">Northern Cyprus (TRNC)</string>
+    <string name="country_northern_cyprus_code" translatable="false">no</string>
+    <string name="country_northern_cyprus_number" translatable="false">90</string>
+
     <string name="country_oman_name">Oman</string>
     <string name="country_oman_code" translatable="false">om</string>
     <string name="country_oman_number" translatable="false">968</string>
@@ -975,5 +979,7 @@
     <string name="country_zimbabwe_name">Zimbabwe</string>
     <string name="country_zimbabwe_code" translatable="false">zw</string>
     <string name="country_zimbabwe_number" translatable="false">263</string>
+
+
 
 </resources>
